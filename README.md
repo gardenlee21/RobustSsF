@@ -3,7 +3,7 @@
 ## ICML 2024 workshop
 ## Springer LNCS
 RobustSsF: Robust Missing Modality Brain Tumor Segmentation with Self‑supervised Learning‑based Scenario‑specific Fusion
-https://scholar.google.co.kr/citations?view_op=view_citation&hl=ko&user=2UHA0xYAAAAJ&citation_for_view=2UHA0xYAAAAJ:YsMSGLbcyi4C
+https://link.springer.com/chapter/10.1007/978-3-031-47679-2_4
 
 
 - Python: 3.7
